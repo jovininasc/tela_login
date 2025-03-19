@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "angular-b5718",
+    "my-angular-app": "angular-b5718"
+  },
+  "targets": {
+    "angular-b5718": {
+      "hosting": {
+        "my-angular-app": [
+          "angular-b5718"
+        ]
+      }
+    }
+  }
+}
